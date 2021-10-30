@@ -29,6 +29,7 @@
 23. -[ ] [Saddle Point In Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 24. -[ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 25. -[ ] [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+26. -[ ] [Boolean Matix](https://practice.geeksforgeeks.org/problems/boolean-matrix-problem-1587115620/1)
 
 ### Medium
 1. -[ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
